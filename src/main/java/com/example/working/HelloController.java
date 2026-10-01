@@ -9,7 +9,7 @@ public class HelloController {
     @GetMapping("/")
     public String home() {
         return """
-		<font color=red><h1>Welcome Ajith Sir>
+		<font color=red><h1>Welcome Ajith Sir
 		""";
     }
 }
